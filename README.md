@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/abhi-bhingradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-bhingradiya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_bhingradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_bhingradiya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhibvxr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhibvxr1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhipatel14" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521454-2944916.png" alt="codechef" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhipatel14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhipatel14" height="30" width="40" /></a>
 </p>
 
 
