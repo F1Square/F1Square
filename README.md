@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhi Bhingradiya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img src="https://komarev.com/ghpvc/?username=alecxender1402&label=Profile%20views&color=0e75b6&style=flat&base=1000" alt="alecxender1402" />
+<img src="https://komarev.com/ghpvc/?username=F1Square&label=Profile%20views&color=0e75b6&style=flat&base=1000" alt="alecxender1402" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alecxender1402&title=Commit,Repositories,Experience&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=F1Square&title=Commit,Repositories,Experience&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/abhibhingradiya" target="blank"><img src="https://img.shields.io/twitter/follow/abhibhingradiya?logo=twitter&style=for-the-badge" alt="abhibhingradiya" /></a> </p>
 
