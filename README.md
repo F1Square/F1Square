@@ -29,9 +29,9 @@
 <h3 align="left">🐍 A Snake Eating my Contributions Graph</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alecxender1402/Alecxender1402/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alecxender1402/Alecxender1402/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Alecxender1402/Alecxender1402/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/F1Square/F1Square/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/F1Square/F1Square/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/F1Square/F1Square/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
